@@ -1,18 +1,42 @@
-# listeny
+# Listeny
 
 A new Flutter project.
 
-## Getting Started
+## Music App
 
-This project is a starting point for a Flutter application.
+Flutter-hive based Beautiful Material Design Music Player.
 
-A few resources to get you started if this is your first Flutter project:
+Music Player App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Available in Play store
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# MusicApp-Listeny
-# MusicApp-Listeny
+Features
+
+Android
+
+Funtions included:
+
+Fetch local songs
+
+Beautiful UI
+
+Full Fledged Example
+
+play (local files)
+
+pause
+
+seek
+
+Loop
+
+Playlist creation
+
+favourites
+
+onComplete onDuration / onCurrentPosition
+
+Android
+
+Show some ❤️ and star the repo to support the project
+
